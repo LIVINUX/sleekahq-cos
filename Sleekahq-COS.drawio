@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="SLEEKAHQ-COS " id="AZPs-2JoirBTVZNhCYd5">
-    <mxGraphModel dx="2020" dy="3930" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1048" dy="2356" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -205,10 +205,9 @@
               <mxPoint x="-209" y="329" />
               <mxPoint x="-209" y="335" />
               <mxPoint x="-242" y="335" />
-              <mxPoint x="-242" y="386" />
-              <mxPoint x="-190" y="386" />
-              <mxPoint x="-190" y="1114" />
+              <mxPoint x="-242" y="1114" />
               <mxPoint x="-103" y="1114" />
+              <mxPoint x="-103" y="1097" />
             </Array>
             <mxPoint x="-190" y="319" as="sourcePoint" />
             <mxPoint x="-92" y="1097" as="targetPoint" />

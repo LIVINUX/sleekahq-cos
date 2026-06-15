@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="SLEEKAHQ-COS " id="AZPs-2JoirBTVZNhCYd5">
-    <mxGraphModel dx="1628" dy="1465" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1326" dy="2760" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6YzYbQSDZng14ZEkK0EF-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;dashPattern=1 4;strokeWidth=5;perimeterSpacing=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="675" width="920" x="-215" y="-735" as="geometry" />
+        </mxCell>
         <mxCell id="PsvjYcOsVsWcfvSPszju-4" edge="1" parent="1" source="PsvjYcOsVsWcfvSPszju-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;sketch=1;curveFitting=1;jiggle=2;" target="PsvjYcOsVsWcfvSPszju-3" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -15,7 +18,7 @@
         <mxCell id="PsvjYcOsVsWcfvSPszju-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;" value="COS" vertex="1">
           <mxGeometry height="80" width="120" x="224" y="943" as="geometry" />
         </mxCell>
-        <mxCell id="6YzYbQSDZng14ZEkK0EF-4" connectable="0" parent="1" style="group" value="" vertex="1">
+        <mxCell id="6YzYbQSDZng14ZEkK0EF-4" connectable="0" parent="1" style="group;rotation=90;" value="" vertex="1">
           <mxGeometry height="166" width="884" x="-149" y="-688" as="geometry" />
         </mxCell>
         <mxCell id="YgCXP81Auruivbbt0acm-1" parent="6YzYbQSDZng14ZEkK0EF-4" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;glass=0;shadow=0;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=20;fontStyle=1;labelBackgroundColor=none;" value="ONBOARDING&amp;nbsp;" vertex="1">

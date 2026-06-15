@@ -83,10 +83,10 @@
           <mxGeometry height="73" width="162" x="-153" y="-744" as="geometry" />
         </mxCell>
         <mxCell id="6YzYbQSDZng14ZEkK0EF-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1" value="WORK STRUCTURE &amp;gt;&amp;gt;" vertex="1">
-          <mxGeometry height="73" width="196" x="236.45999999999998" y="-109.14999999999998" as="geometry" />
+          <mxGeometry height="73" width="196" x="-167.00000000000006" y="-488" as="geometry" />
         </mxCell>
         <mxCell id="6YzYbQSDZng14ZEkK0EF-34" connectable="0" parent="1" style="group;dashed=1;dashPattern=12 12;strokeWidth=2;strokeColor=none;rounded=1;" value="" vertex="1">
-          <mxGeometry height="238" width="843" x="-163" y="-183" as="geometry" />
+          <mxGeometry height="238" width="843" x="-167" y="-158" as="geometry" />
         </mxCell>
         <mxCell id="6YzYbQSDZng14ZEkK0EF-35" parent="6YzYbQSDZng14ZEkK0EF-34" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;fontSize=20;fillColor=#d5e8d4;strokeColor=light-dark(#FFFFFF,#FFFFFF);dashed=1;dashPattern=1 4;strokeWidth=2;" value="DEDICATED TEAM TO CLIENT&amp;nbsp;" vertex="1">
           <mxGeometry height="234.1656356535559" width="191.6006840798716" y="3.8343643464440382" as="geometry" />
